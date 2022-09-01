@@ -2,7 +2,7 @@ Olá!👋  Eu sou Eliel Nascimento Desenvolvedor de software.
  -  🚀Formado em Análise e desenvolvimento de sistemas no ano de 2022.
 - 🌱 Atualmente estou estudando java com springboot + react com material-ui.
 <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/ElielNascimento">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elielnascimento&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elielnascimento&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -12,7 +12,7 @@ Olá!👋  Eu sou Eliel Nascimento Desenvolvedor de software.
   <img align="center" alt="Eliel-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Eliel-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Eliel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Eliel height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
  
 </div>
   
