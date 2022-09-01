@@ -1,5 +1,5 @@
 Olá!👋  Eu sou Eliel Nascimento Desenvolvedor de software.
- -  🚀Formado em Análise e desenvolvimento de sistemas no ano de 2022.
+ -  🚀Formado em Análise e desenvolvimento de sistemas.
 - 🌱 Atualmente estou estudando java com springboot + react com material-ui.
 <div>
   <a href="https://github.com/ElielNascimento">
