@@ -1,10 +1,10 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4682B4&height=180&section=header&text=FullStack+Programmer&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D2691E&height=180&section=header&text=FullStack+Programmer&fontSize=30&fontColor=000000&animation=twinkling&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F0F8FF&size=35&center=true&vCenter=true&width=1000&lines=Heeeeey+what's+up!?,+My+Name+is+Eliel+Nascimento;And+I+am+30+years+old;I+am+from+Brazil;A+Graduated+in+Systems+Analysis+and+Development;Be+welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=35&center=true&vCenter=true&width=1000&lines=Heeeeey+what's+up!?,+My+Name+is+Eliel+Nascimento;A+Graduated+in+Systems+Analysis+and+Development;Be+welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ElielNascimento&show_icons=true&count_private=true&hide_border=true&title_color=8f00ff&icon_color=8f00ff&text_color=c9d1d9&bg_color=0d1117" alt="Eliel Nascimento" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=E&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElielNascimento&layout=compact&hide_border=true&title_color=8f00ff&text_color=ffffff&bg_color=0d1117" />
 </div>
 
 ### Technologies for Front-end:
@@ -20,23 +20,12 @@
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&labelColor=0D1117)&nbsp;
 ![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
 
-### Other Technologies:
-![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C Language](https://img.shields.io/badge/-C%20Language-0D1117?style=for-the-badge&logo=c&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=1572B6&labelColor=0D1117)&nbsp;
-
 ### Tools that I use:
 ![Git](https://img.shields.io/badge/-git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-visual%20studio%20code-0D1117?style=for-the-badge&logo=visualStudioCode&labelColor=0D1117)&nbsp;
-![PyCharm](https://img.shields.io/badge/-PyCharm-0D1117?style=for-the-badge&logo=pycharm&labelColor=0D1117)&nbsp;
-![Arduino IDE](https://img.shields.io/badge/-Arduino%20IDE-0D1117?style=for-the-badge&logo=arduino&labelColor=0D1117)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-0D1117?style=for-the-badge&logo=androidStudio&labelColor=0D1117)&nbsp;
-![Xampp](https://img.shields.io/badge/-xampp-0D1117?style=for-the-badge&logo=xampp&labelColor=0D1117)&nbsp;
-![Expo](https://img.shields.io/badge/-expo-0D1117?style=for-the-badge&logo=expo&labelColor=0D1117)&nbsp;
-![Android](https://img.shields.io/badge/-android-0D1117?style=for-the-badge&logo=android&labelColor=0D1117)&nbsp;
 ![Postman](https://img.shields.io/badge/-postman-0D1117?style=for-the-badge&logo=postman&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-0D1117?style=for-the-badge&logo=adobexd&labelColor=0D1117)&nbsp;
+
 
 <div align="center">
 <br><p align="centre"><b>Total Profile Visits</b></p>  
@@ -56,4 +45,4 @@
   
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8f00ff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=191970&height=120&section=footer"/>
