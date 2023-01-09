@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=180&section=header&text=FullStack+Programmer&fontSize=30&fontColor=FFFAFA&animation&fontAlignY=35"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A9A9A9&size=35&center=true&vCenter=true&width=1000&lines=Heeeeey+what's+up!?,+My+Name+is+Eliel+Nascimento;A+Graduated+in+Systems+Analysis+and+Development;Be+welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=696969&size=35&center=true&vCenter=true&width=1000&lines=Heeeeey+what's+up!?,+My+Name+is+Eliel+Nascimento;A+Graduated+in+Systems+Analysis+and+Development;Be+welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ElielNascimento&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=8f00ff&text_color=c9d1d9&bg_color=0d1117" alt="Eliel Nascimento" /> 
